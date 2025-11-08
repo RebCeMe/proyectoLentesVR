@@ -1,9 +1,9 @@
 {
   "name": "vite-react-starter",
   "private": true,
-  "homepage": "https://rebceme.github.io/proyectoLentesVR/",
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://rebceme.github.io/proyectoLentesVR/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

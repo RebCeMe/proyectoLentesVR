@@ -1,6 +1,7 @@
 {
   "name": "vite-react-starter",
   "private": true,
+  "homepage": "https://rebceme.github.io/proyectoLentesVR/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -10,7 +11,7 @@
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://rebceme.github.io/proyectoLentesVR/",
+
   },
   "dependencies": {
     "@google/genai": "^1.27.0",
